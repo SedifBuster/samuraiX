@@ -1,1 +1,1 @@
-# samuraiX
+# HTML/CSS no-adaptive page
